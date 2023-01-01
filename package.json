@@ -33,7 +33,7 @@
     "coffeescript": "^2.5.1",
     "requirejs": "^2.3.6",
     "sweetalert2": "^9.17.0",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "build": "grunt",
